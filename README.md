@@ -11,6 +11,7 @@ Following are the specifications and usage directions:
    a predefined priority order.
   -The Quick Email facility requires you to enter your email and password and other details.
   -In any case, any of the details(like the password or the email) will NEVER be stored. It is totally safe.
+  -Duplicate file remover added.
   -The "remove duplicate files" removes the duplicate files from your desired folder or drive, WITHOUT notifying you about the
    names of the duplicate files deleted.
   -However this is safe but still this utility should NOT be used twice in the same session.
