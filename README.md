@@ -2,7 +2,7 @@
 
 A desktop search software that provides full text search(for windows).
 Built in python, it is a good alternative to windows search.
-Welcome to seachBASE 1.5 , a simple, easy to setup and use, Desktop search software.
+Welcome to seachBASE 1.0 , a simple, easy to setup and use, Desktop search software.
 Following are the specifications and usage directions:
   -To begin, it indexes the files,folders and the documents inside the drives.
   -After that, the indexing becomes automatic and a background process.
