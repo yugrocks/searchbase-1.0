@@ -1,5 +1,5 @@
 Name: searchBASE
-version: 1.5
+version: 1.0
 Summary: A desktop search software with smart search  and additional utilities.
 Author: Yugal Sharma
 Author-email: yugalsharma13@gmail.com
